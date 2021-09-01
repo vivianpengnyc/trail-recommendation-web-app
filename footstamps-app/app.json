@@ -1,0 +1,15 @@
+
+{
+  "name": "Footstamps",
+  "authors:" ["Allison Feldman", "Beth Parrott", "Vivian Peng", "Yenny Su", "Lu Zhang"],
+  "description": "An interactive trail recommendation application developed for the final project of Georgia Tech CSE 6242 Data Visual Analytics class during Fall 2020.",
+  "repository": "https://github.gatech.edu/6242-fall-20/footstamps-app",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

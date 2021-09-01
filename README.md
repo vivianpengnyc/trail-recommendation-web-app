@@ -1,1 +1,0 @@
-# trail-recommendation-web-app
